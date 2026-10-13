@@ -1,10 +1,32 @@
 # George Brown Polytechnic
 
 ## George Brown Polytechnic History
+
 George Brown Polytechnic takes its name from George Brown, a Scottish-born Canadian politician
 who lived from 1818 to 1880. Brown was a firm advocate of public education and the founder of 
 The Globe newspaper. In 1967, Ontario Education Minister Bill Davis proposed the name for the 
 new college of applied arts and technology, arguing that Toronto should honour a reformer, 
 journalist, and statesman who had brought distinction to the city. The college opened in 1968 
 with just over 2,000 students.
+
+## George Brown Polytechnic - Campuses
+
+George Brown Polytechnic has three campuses, each housing different faculties and schools. 
+Casa Loma Campus is home to the Faculty of Applied Science, Construction, and Engineering 
+Technology, including construction management, apprenticeship and skilled trades, engineering 
+technologies, and computer technology, as well as the Dance, Fashion, and Jewellery Studies 
+programs from the Faculty of Business, Creative Industries, and Culinary Arts. St. James Campus
+hosts the rest of that business and creative faculty, including marketing and financial services,
+management, media and performing arts, and The Chef School, along with the Faculty of Community 
+Services and Interdisciplinary Studies, which covers areas such as Deaf and Deafblind studies, 
+early childhood, ESL and immigrant education, liberal arts and sciences, social and community 
+services, and work and college preparation. 
+
+Waterfront Campus is home to the Faculty of Health Sciences, with its nursing, allied health, 
+and dental health schools, as well as the School of Behavioural Science, the School of Design,
+and the School of Architectural Studies, and it also houses the Office of Research & Innovation.
+Its Limberlost Place building at 185 Queens Quay East is the first of its kind in Ontario, and 
+its mass-timber construction will help shape revisions to national and provincial building codes 
+for timber buildings over six storeys. Continuing Education courses are also offered at all three 
+campuses.
 
