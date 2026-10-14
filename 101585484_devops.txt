@@ -6,3 +6,17 @@ Course Overview
 COMP 3104 introduces DevOps: the set of practices, tools and culture that bring
 software development (Dev) and IT operations (Ops) together. The goal is to deliver
 software faster, more often, and more reliably.
+
+Version Control with Git and GitHub
+-----------------------------------
+The course starts with Git for tracking changes locally and GitHub for hosting
+shared repositories. We practise cloning, branching, committing, pushing, pulling,
+opening pull requests and resolving merge conflicts - exactly what this group
+assignment exercises.
+
+Continuous Integration and Continuous Delivery
+----------------------------------------------
+CI means every change pushed to the repository is automatically built and tested.
+CD extends this so tested code can be released automatically. In the labs we use
+tools like Travis CI and GitHub Actions, where a YAML workflow file describes the
+jobs that run on each push.
