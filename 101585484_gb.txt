@@ -7,3 +7,10 @@ George Brown College is a public college of applied arts and technology located 
 downtown Toronto, Ontario. It was founded in 1967 and is named after George Brown,
 a Toronto newspaper publisher (founder of The Globe) and one of the Fathers of
 Confederation.
+
+Campuses
+--------
+The college operates three main campuses in the heart of the city:
+- St. James Campus - business, arts and design, hospitality and culinary arts
+- Casa Loma Campus - technology, construction and engineering technologies
+- Waterfront Campus - health sciences, built on Toronto's waterfront
