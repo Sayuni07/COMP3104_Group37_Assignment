@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Sayuni Wimaladharma (101563313) - [Github](https://github.com/Sayuni07)
 
-- **Member 2:**
+- **Member 2:** Tanzeem Shaikh (101585484) - [GitHub](https://github.com/Tanzeem240)
 - **Member 3:**
 - **Member 4:**
 
