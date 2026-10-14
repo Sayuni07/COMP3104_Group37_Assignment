@@ -17,6 +17,7 @@ This repository hosts the group assignment for COMP3104 DevOps. It focuses on co
 4. Push your branch: `git push -u origin STUDENTID-Name`
 
 ## CI/CD Pipeline
-
+The project uses GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/ci.yml` and runs on every push using an `ubuntu-latest` runner. It checks out the repository code and runs simple echo commands to confirm the pipeline is working. Results can be viewed in the Actions tab.
 
 ## Branching Strategy
+We use a per-developer branching strategy. Each member works on their own branch named `STUDENTID-Name`, and all changes are merged into `main` through Pull Requests. This protects `main` from untested code, lets members work independently, and allows peer review before merging.
