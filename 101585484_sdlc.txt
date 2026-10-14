@@ -26,3 +26,17 @@ Key Benefits
    requests make work visible and reviewable by the whole team.
 5. Faster recovery - monitoring and logging help teams detect and fix problems
    in production quickly.
+
+DevOps Practices Across the Lifecycle
+-------------------------------------
+- Planning: issue tracking and small user stories
+- Development: version control, branching strategy, code review
+- Build and Test: continuous integration with automated tests
+- Release and Deploy: continuous delivery, containers, infrastructure as code
+- Operate and Monitor: logging, metrics, alerts and feedback to the next cycle
+
+Conclusion
+----------
+DevOps makes the SDLC faster, safer and more collaborative. By automating
+repetitive steps and tightening feedback loops, teams spend less time fighting
+releases and more time building features that matter to users.
