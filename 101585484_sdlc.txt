@@ -1,0 +1,15 @@
+The Importance of DevOps in the Software Development Lifecycle (SDLC)
+=====================================================================
+
+What is the SDLC?
+-----------------
+The software development lifecycle is the process teams follow to build software:
+planning, requirements, design, development, testing, deployment and maintenance.
+In traditional (waterfall) models these phases happen one after another and are
+often owned by separate teams, which slows feedback and causes hand-off problems.
+
+Where DevOps Fits
+-----------------
+DevOps turns the SDLC into a continuous loop - plan, code, build, test, release,
+deploy, operate, monitor - and repeats it in small, frequent cycles. Developers and
+operations share ownership of the product from the first line of code to production.
