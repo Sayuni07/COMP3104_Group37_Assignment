@@ -14,3 +14,22 @@ The college operates three main campuses in the heart of the city:
 - St. James Campus - business, arts and design, hospitality and culinary arts
 - Casa Loma Campus - technology, construction and engineering technologies
 - Waterfront Campus - health sciences, built on Toronto's waterfront
+
+Programs and Learning Style
+---------------------------
+George Brown offers certificates, diplomas, advanced diplomas, degrees and
+graduate certificates. Its focus is career-ready, hands-on learning: many programs
+include labs, real client projects, co-op placements and field work so students
+graduate with practical experience employers are looking for.
+
+School of Computer Technology
+-----------------------------
+I am a student in the Computer Programming and Analysis (T177) advanced diploma.
+The program covers software development, web and mobile apps, databases, networking
+and DevOps practices, and finishes with a capstone project built by student teams.
+
+Why It Matters to Me
+--------------------
+Being in downtown Toronto puts students close to one of Canada's largest tech
+markets. Team projects like this assignment mirror how real software teams work,
+which makes the transition from school to industry much smoother.
