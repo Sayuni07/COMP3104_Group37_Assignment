@@ -20,3 +20,20 @@ CI means every change pushed to the repository is automatically built and tested
 CD extends this so tested code can be released automatically. In the labs we use
 tools like Travis CI and GitHub Actions, where a YAML workflow file describes the
 jobs that run on each push.
+
+Containers and Infrastructure
+-----------------------------
+The course also covers containerization with Docker, so an application runs the
+same way on a developer laptop, a test server and in production, along with the
+idea of defining infrastructure and environments as code.
+
+Collaboration and Culture
+-------------------------
+DevOps is not only tools. It also means shared responsibility, small frequent
+changes, peer review through pull requests, and fast feedback so problems are
+caught early instead of at release time.
+
+What I Expect to Gain
+---------------------
+Hands-on experience with the workflows used by real development teams, and the
+confidence to set up a pipeline that keeps a project healthy as it grows.
