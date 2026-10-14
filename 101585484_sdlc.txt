@@ -13,3 +13,16 @@ Where DevOps Fits
 DevOps turns the SDLC into a continuous loop - plan, code, build, test, release,
 deploy, operate, monitor - and repeats it in small, frequent cycles. Developers and
 operations share ownership of the product from the first line of code to production.
+
+Key Benefits
+------------
+1. Faster delivery - automated pipelines move a change from commit to release in
+   minutes instead of weeks.
+2. Higher quality - automated tests run on every push, so bugs are found early
+   when they are cheapest to fix.
+3. Fewer deployment failures - small, frequent releases are easier to test and
+   easier to roll back than large ones.
+4. Better collaboration - shared repositories, branching strategies and pull
+   requests make work visible and reviewable by the whole team.
+5. Faster recovery - monitoring and logging help teams detect and fix problems
+   in production quickly.
