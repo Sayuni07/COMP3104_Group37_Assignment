@@ -1,0 +1,8 @@
+COMP 3104 - Developer Operations (DevOps)
+=========================================
+
+Course Overview
+---------------
+COMP 3104 introduces DevOps: the set of practices, tools and culture that bring
+software development (Dev) and IT operations (Ops) together. The goal is to deliver
+software faster, more often, and more reliably.
