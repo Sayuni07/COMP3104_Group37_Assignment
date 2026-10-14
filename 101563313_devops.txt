@@ -1,0 +1,11 @@
+# COMP3104 - DevOps 
+
+COMP3104 DevOps is a hands-on course designed to show you what it’s actually like to work as 
+a DevOps engineer.We will be working with essential tools like Git, GitHub, Docker, Jenkins, 
+and SonarQube while learning how modern tech teams build, test, and ship reliable software quickly.
+
+
+Throughout the course, we’ll dive into microservices vs. monoliths, set up automated CI/CD 
+pipelines, practice safe branching strategies, and explore cloud infrastructure. Through a mix of 
+lectures, practical labs, and assignments, you’ll build real-world skills and wrap up the term with
+a clear picture of DevOps career paths and market demand.
