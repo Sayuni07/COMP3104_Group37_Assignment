@@ -1,0 +1,1 @@
+COMP 3104 DevOps covers version control, CI/CD, and automation of the software delivery process.
