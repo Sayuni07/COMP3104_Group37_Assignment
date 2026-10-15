@@ -1,0 +1,1 @@
+The SDLC is the process of planning, building, testing, deploying and maintaining software.
