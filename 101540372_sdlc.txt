@@ -1,0 +1,4 @@
+The SDLC is the process of planning, building, testing, deploying and maintaining software.
+DevOps matters in the SDLC because it connects development and operations teams.
+CI/CD automates testing and deployment, which means faster releases and fewer bugs.
+In summary, DevOps makes the software lifecycle faster, safer and more collaborative.
