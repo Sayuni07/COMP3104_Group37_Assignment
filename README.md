@@ -5,7 +5,7 @@
 
 - **Member 2:** Tanzeem Shaikh (101585484) - [GitHub](https://github.com/Tanzeem240)
 - **Member 3:** Daviti Sidana (101540372) - [GitHub](https://github.com/Daviti891)
-- **Member 4:**
+- **Member 4:** Noela Kabundi (101485935) - [GitHub](https://github.com/Noella-nk)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps. It focuses on collaborative Git workflows, branching strategies, pull requests, merge conflict resolution, and CI/CD integration using GitHub Actions.
@@ -20,4 +20,4 @@ This repository hosts the group assignment for COMP3104 DevOps. It focuses on co
 The project uses GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/ci.yml` and runs on every push using an `ubuntu-latest` runner. It checks out the repository code and runs simple echo commands to confirm the pipeline is working. Results can be viewed in the Actions tab.
 
 ## Branching Strategy
-We use a per-developer branching strategy. Each member works on their own branch named `STUDENTID-Name`, and all changes are merged into `main` through Pull Requests. This protects `main` from untested code, lets members work independently, and allows peer review before merging.
+We use a per-developer branching strategy. Each member works on their own branch named `STUDENTID-Name`, and all changes are merged into `master` through Pull Requests. This protects `master` from untested code, lets members work independently, and allows peer review before merging.
