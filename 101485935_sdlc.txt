@@ -1,1 +1,3 @@
 DevOps improves the software development lifecycle by encouraging collaboration between development and operations teams. Version control helps track changes, while continuous integration automates checks on new code. Continuous delivery supports reliable software releases. Automation, monitoring, and feedback help teams detect errors earlier, reduce deployment risks, and maintain software quality.
+
+DevOps practices can support multiple stages of the software development lifecycle, including planning, coding, testing, deployment, and monitoring. Continuous feedback helps teams improve their processes and respond to defects or changing requirements more quickly.
