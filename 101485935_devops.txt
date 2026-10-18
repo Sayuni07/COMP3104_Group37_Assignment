@@ -1,0 +1,1 @@
+COMP 2156 is a DevOps course that introduces students to tools and practices used in modern software development. Topics include Git, GitHub, version control, branching, collaboration, continuous integration, and continuous delivery. These practices help development teams automate workflows, identify problems earlier, and deliver reliable software more efficiently.
