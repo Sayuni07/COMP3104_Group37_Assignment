@@ -3,3 +3,5 @@ DevOps improves the software development lifecycle by encouraging collaboration 
 DevOps practices can support multiple stages of the software development lifecycle, including planning, coding, testing, deployment, and monitoring. Continuous feedback helps teams improve their processes and respond to defects or changing requirements more quickly.
 
 Automation reduces repetitive manual work and makes development processes more consistent. Automated tests can detect regressions, while deployment workflows can reduce human error. Teams should still review workflow results and investigate failures before releasing changes.
+
+Monitoring helps teams understand application performance and reliability after deployment. Logs, metrics, and user feedback can reveal problems that were not detected during testing. Teams can use these findings to prioritize fixes and improve future releases.
